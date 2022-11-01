@@ -1,2 +1,2 @@
 # Guerilla
-3D game engine
+Base code for my own simple 3D game engine.
